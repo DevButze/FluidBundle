@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "typo3/fluid": "dev-master"
+        "namelesscoder/fluid": "dev-master"
     },
     "autoload": {
         "psr-0": { "PhBergsmann\\FluidBundle": "" }
